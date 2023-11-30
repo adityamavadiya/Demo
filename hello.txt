@@ -10,4 +10,8 @@ Adding changes to child branch in main repo on net.
 
 3rd phase of changes
 
+<<<<<<< HEAD
 Child branch: 4th stage.
+=======
+4th stage of changes in main
+>>>>>>> origin
